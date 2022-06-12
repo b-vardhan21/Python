@@ -1,8 +1,8 @@
 ## Introduction
-#Python is a general purpose high level programming language
-#Developed by Guido van Rossam 
-#published in 1991
-#uses -> Desktop Applications, web Applications, Database Applications
+#Python is a general purpose high level programming language</br>
+#Developed by Guido van Rossam </br>
+#published in 1991</br>
+#uses -> Desktop Applications, web Applications, Database Applications</br>
 
 ## Reserved Words
 >>> import keyword
@@ -28,6 +28,6 @@
 14) None
 
 ## Int Data Type
-We can use int data type to represent whole numbers
+We can use int data type to represent whole numbers <br>
 Eg: a = 10
 type(a) //int
