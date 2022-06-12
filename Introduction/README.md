@@ -26,3 +26,8 @@
 12) Frozenset 
 13) Dict
 14) None
+
+## Int Data Type
+We can use int data type to represent whole numbers
+Eg: a = 10
+type(a) //int
